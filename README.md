@@ -8,7 +8,7 @@
 
 ![Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianPaiva&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RianPaiva&layout=compact&theme=tokyonight)](https://github.com/RianPaiva/github-readme-stats)
 
-## 🚧 Tecnologias que eu uso:
+## 🚧 Tecnologias que eu uso 🚧
 <div style:"display: inline_block">
 </br>
 
@@ -24,4 +24,6 @@
 
 </div>
 
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
